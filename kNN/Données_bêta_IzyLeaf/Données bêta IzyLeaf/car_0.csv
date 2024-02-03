@@ -1,0 +1,270 @@
+brand,model,dealer,url,price,year,km,fuel,gearbox,color,doors,seats,fiscalPower,DINPower,critAir,nb_img,link,car_id
+CITROEN,C3,sofibrie,https://www.leboncoin.fr/voitures/2221069564.htm,12890,2017,60933,Essence,Manuelle,Blanc,5,5,4,82,1,7,"",2
+RENAULT,Talisman,sofibrie,https://www.leboncoin.fr/voitures/2218598351.htm,24900,2019,63510,Essence,Automatique,Gris,5,5,8,159,1,20,"",3
+RENAULT,Kadjar,sofibrie,https://www.leboncoin.fr/voitures/2229908445.htm,20890,2019,58858,Diesel,Manuelle,Gris,5,5,6,116,2,20,"",4
+RENAULT,Koleos,sofibrie,https://www.leboncoin.fr/voitures/2301949775.htm,36490,2022,64,Essence,Automatique,Noir,5,5,8,158,1,20,"",5
+CITROEN,C3,sofibrie,https://www.leboncoin.fr/voitures/2274683789.htm,14890,2021,42555,Essence,Manuelle,Gris,5,5,4,83,1,20,"",6
+NISSAN,Micra,sofibrie,https://www.leboncoin.fr/voitures/2303032779.htm,13690,2019,38059,Essence,Manuelle,Blanc,5,5,5,101,1,18,"",8
+RENAULT,Clio,sofibrie,https://www.leboncoin.fr/voitures/2304679188.htm,13890,2020,55657,Diesel,Manuelle,Gris,5,5,4,86,2,20,"",9
+RENAULT,Twingo,sofibrie,https://www.leboncoin.fr/voitures/2304679721.htm,14590,2019,30559,Essence,Automatique,Noir,5,4,5,90,1,17,"",10
+CITROEN,C3 Aircross,sofibrie,https://www.leboncoin.fr/voitures/2304679481.htm,16480,2020,58365,Essence,Manuelle,Blanc,5,5,6,110,1,20,"",11
+DACIA,Sandero,sofibrie,https://www.leboncoin.fr/voitures/2304680154.htm,10900,2019,62863,Essence,Manuelle,Gris,5,5,4,73,1,19,"",12
+RENAULT,Kadjar,sofibrie,https://www.leboncoin.fr/voitures/2304680393.htm,20490,2017,75394,Essence,Manuelle,Noir,5,5,8,163,1,20,"",13
+DACIA,Sandero,sofibrie,https://www.leboncoin.fr/voitures/2296947858.htm,16900,2022,5200,Essence,Manuelle,Gris,5,5,5,91,1,19,"",14
+PEUGEOT,2008,sofibrie,https://www.leboncoin.fr/voitures/2305734452.htm,19890,2020,49637,Essence,Manuelle,Blanc,5,5,5,101,1,20,"",15
+RENAULT,Megane,sofibrie,https://www.leboncoin.fr/voitures/2305734644.htm,17490,2019,67282,Essence,Manuelle,Gris,5,5,7,140,1,19,"",16
+RENAULT,Kangoo,sofibrie,https://www.leboncoin.fr/voitures/2290311216.htm,13890,2015,38809,Essence,Manuelle,Blanc,5,5,6,116,1,13,"",17
+NISSAN,Micra,sofibrie,https://www.leboncoin.fr/voitures/2305733429.htm,14690,2020,29996,Essence,Manuelle,Blanc,5,5,5,101,1,19,"",18
+VOLKSWAGEN,Golf,sofibrie,https://www.leboncoin.fr/voitures/2306238181.htm,19480,2019,47573,Diesel,Manuelle,Noir,5,5,6,116,2,20,"",19
+RENAULT,Clio,sofibrie,https://www.leboncoin.fr/voitures/2306238186.htm,14480,2020,58252,Diesel,Manuelle,Gris,5,5,4,86,2,8,"",20
+DACIA,Sandero,sofibrie,https://www.leboncoin.fr/voitures/2306238179.htm,11890,2018,48540,Essence,Manuelle,Beige,5,5,5,90,1,20,"",21
+NISSAN,Micra,sofibrie,https://www.leboncoin.fr/voitures/2239961358.htm,17990,2022,10,Essence,Manuelle,Rouge,5,5,5,92,1,11,"",22
+RENAULT,Zoe,sofibrie,https://www.leboncoin.fr/voitures/2296947408.htm,14790,2019,29950,Electrique,Automatique,Gris,5,5,1,92,0,18,"",23
+RENAULT,Scenic,sofibrie,https://www.leboncoin.fr/voitures/2264021539.htm,26900,2021,21860,Essence,Manuelle,Bleu,5,,7,140,1,19,"",24
+RENAULT,Kadjar,sofibrie,https://www.leboncoin.fr/voitures/2259732248.htm,22900,2020,35562,Essence,Manuelle,Gris,5,5,7,140,1,20,"",25
+RENAULT,Clio,sofibrie,https://www.leboncoin.fr/voitures/2236757564.htm,20900,2021,62394,Essence,Manuelle,Noir,5,5,7,140,1,20,"",26
+FIAT,500,sofibrie,https://www.leboncoin.fr/voitures/2264601449.htm,12890,2018,40334,Essence,Manuelle,Rouge,3,4,4,69,1,17,"",27
+FIAT,500,sofibrie,https://www.leboncoin.fr/voitures/2259732210.htm,12480,2017,36604,Essence,Manuelle,Bleu,3,4,4,69,1,16,"",28
+SEAT,Leon,sofibrie,https://www.leboncoin.fr/voitures/2252986054.htm,14990,2017,68959,Essence,Manuelle,Gris,5,5,6,110,1,20,"",29
+NISSAN,Micra,sofibrie,https://www.leboncoin.fr/voitures/2270712178.htm,19690,2022,10,Essence,Automatique,Gris,5,5,5,92,1,16,"",30
+RENAULT,Kadjar,sofibrie,https://www.leboncoin.fr/voitures/2229908845.htm,20900,2018,33130,Essence,Manuelle,Noir,5,5,7,131,1,20,"",31
+CITROEN,C3,sofibrie,https://www.leboncoin.fr/voitures/2233569000.htm,14890,2018,65944,Essence,Manuelle,Vert,5,5,5,110,1,20,"",32
+FIAT,Tipo,sofibrie,https://www.leboncoin.fr/voitures/2276411896.htm,18990,2022,14006,Essence,Manuelle,Gris,5,5,5,101,1,20,"",33
+RENAULT,Scenic,sofibrie,https://www.leboncoin.fr/voitures/2264021217.htm,26480,2021,39255,Essence,Manuelle,Gris,5,,7,140,1,20,"",34
+FIAT,500,sofibrie,https://www.leboncoin.fr/voitures/2268399561.htm,12990,2016,79003,Essence,Manuelle,Rouge,2,4,4,69,1,15,"",35
+CITROEN,C1,sofibrie,https://www.leboncoin.fr/voitures/2300524310.htm,10290,2019,11791,Essence,Manuelle,Autre,3,4,4,72,1,17,"",36
+FIAT,500,sofibrie,https://www.leboncoin.fr/voitures/2276413370.htm,11900,2019,59069,Essence,Manuelle,Gris,3,4,4,69,1,17,"",37
+DACIA,Sandero,sofibrie,https://www.leboncoin.fr/voitures/2255244104.htm,16480,2021,37193,Essence,Manuelle,Orange,5,5,5,91,1,16,"",38
+RENAULT,Clio,sofibrie,https://www.leboncoin.fr/voitures/2237250704.htm,19900,2020,49417,Hybride,Automatique,Gris,5,5,5,90,,19,"",39
+RENAULT,Talisman,sofibrie,https://www.leboncoin.fr/voitures/2255767677.htm,18900,2017,53252,Diesel,Manuelle,Beige,4,5,6,131,2,17,"",40
+PEUGEOT,2008,sofibrie,https://www.leboncoin.fr/voitures/2259732225.htm,22890,2021,64655,Essence,Manuelle,Gris,5,5,7,131,1,20,"",41
+RENAULT,Clio,sofibrie,https://www.leboncoin.fr/voitures/2304680639.htm,16900,2020,25427,Essence,Manuelle,Gris,5,5,5,101,1,20,"",42
+OPEL,Crossland X,sofibrie,https://www.leboncoin.fr/voitures/2280999137.htm,15480,2019,58872,Essence,Manuelle,Blanc,5,5,5,110,1,20,"",43
+CITROEN,C4,sofibrie,https://www.leboncoin.fr/voitures/2222527957.htm,14890,2018,65624,Essence,Manuelle,Blanc,5,5,4,82,1,20,"",44
+NISSAN,Micra,sofibrie,https://www.leboncoin.fr/voitures/2229909037.htm,14890,2018,40543,Essence,Manuelle,Noir,5,5,4,90,1,18,"",45
+RENAULT,Twingo,sofibrie,https://www.leboncoin.fr/voitures/2279074285.htm,10890,2019,34526,Essence,Manuelle,Jaune,5,4,4,75,1,19,"",46
+PEUGEOT,208,sofibrie,https://www.leboncoin.fr/voitures/2296949100.htm,18900,2020,54517,Essence,Manuelle,Blanc,5,5,5,101,1,20,"",47
+RENAULT,Twingo,sofibrie,https://www.leboncoin.fr/voitures/2240894458.htm,10690,2017,44755,Essence,Manuelle,Blanc,5,4,4,71,1,18,"",48
+RENAULT,Clio,sofibrie,https://www.leboncoin.fr/voitures/2243135405.htm,11290,2018,88657,Essence,Manuelle,Blanc,5,5,4,75,1,17,"",49
+SEAT,Ibiza,sofibrie,https://www.leboncoin.fr/voitures/2284545509.htm,14690,2019,67063,Essence,Manuelle,Gris,5,5,5,95,1,18,"",50
+NISSAN,Micra,sofibrie,https://www.leboncoin.fr/voitures/2285108729.htm,20890,2022,10,Essence,Automatique,Blanc,5,5,5,92,1,20,"",51
+RENAULT,Clio,sofibrie,https://www.leboncoin.fr/voitures/2305209147.htm,16690,2020,57854,Essence,Manuelle,Rouge,5,5,5,101,1,20,"",52
+OPEL,Crossland X,sofibrie,https://www.leboncoin.fr/voitures/2305733839.htm,16480,2019,9230,Essence,Manuelle,Gris,5,5,5,110,1,18,"",53
+RENAULT,Megane,sofibrie,https://www.leboncoin.fr/voitures/2305734248.htm,18480,2019,26165,Essence,Manuelle,Gris,5,5,7,140,1,20,"",54
+VOLKSWAGEN,Polo,sofibrie,https://www.leboncoin.fr/voitures/2302462091.htm,17890,2020,30240,Essence,Manuelle,Blanc,5,5,5,95,1,19,"",55
+RENAULT,Kadjar,sofibrie,https://www.leboncoin.fr/voitures/2308956118.htm,17900,2019,53135,Essence,Manuelle,Gris,5,5,8,140,1,20,"",56
+RENAULT,Kadjar,sofibrie,https://www.leboncoin.fr/voitures/2256330229.htm,20900,2020,41709,Essence,Manuelle,Noir,5,5,7,140,1,20,"",57
+CITROEN,C3,sofibrie,https://www.leboncoin.fr/voitures/2197429644.htm,13490,2018,44334,Essence,Manuelle,Gris,5,5,4,82,1,20,"",58
+PEUGEOT,308,sofibrie,https://www.leboncoin.fr/voitures/2254183573.htm,29890,2022,10,Diesel,Manuelle,Blanc,5,5,6,131,2,20,"",59
+FORD,Puma,sofibrie,https://www.leboncoin.fr/voitures/2284079053.htm,20900,2020,45234,Essence,Manuelle,Gris,5,5,6,126,1,19,"",60
+RENAULT,Clio,sofibrie,https://www.leboncoin.fr/voitures/2240425577.htm,18490,2021,24804,Essence,Manuelle,Noir,5,5,5,91,1,20,"",61
+RENAULT,Kadjar,sofibrie,https://www.leboncoin.fr/voitures/2300982594.htm,18900,2019,40295,Diesel,Manuelle,Bleu,5,5,6,116,2,20,"",62
+RENAULT,Captur,sofibrie,https://www.leboncoin.fr/voitures/2296949942.htm,18900,2020,57448,Essence,Manuelle,Rouge,5,5,7,131,1,20,"",63
+RENAULT,Zoe,sofibrie,https://www.leboncoin.fr/voitures/2279376925.htm,15480,2019,27693,Electrique,Automatique,Gris,5,5,1,92,0,20,"",64
+NISSAN,Micra,sofibrie,https://www.leboncoin.fr/voitures/2247444918.htm,14890,2019,56602,Essence,Manuelle,Noir,5,5,5,101,1,19,"",65
+FIAT,500,sofibrie,https://www.leboncoin.fr/voitures/2256330609.htm,15480,2020,24569,Essence,Manuelle,Rouge,3,4,4,69,1,19,"",66
+RENAULT,Kadjar,sofibrie,https://www.leboncoin.fr/voitures/2297442428.htm,16480,2018,84679,Essence,Manuelle,Gris,5,5,7,131,1,9,"",67
+RENAULT,Clio,sofibrie,https://www.leboncoin.fr/voitures/2285108745.htm,16890,2021,24243,Diesel,Manuelle,Gris,5,5,5,101,2,16,"",68
+RENAULT,Zoe,sofibrie,https://www.leboncoin.fr/voitures/2290784318.htm,13990,2019,22019,Electrique,Automatique,Gris,5,5,1,90,0,16,"",69
+DACIA,Sandero,sofibrie,https://www.leboncoin.fr/voitures/2259732208.htm,12480,2017,61003,Essence,Manuelle,Rouge,5,5,5,90,1,19,"",70
+RENAULT,Scenic,sofibrie,https://www.leboncoin.fr/voitures/2296949550.htm,18480,2018,58170,Diesel,Manuelle,Rouge,5,5,5,110,2,20,"",71
+VOLKSWAGEN,Polo,sofibrie,https://www.leboncoin.fr/voitures/2300525209.htm,13390,2015,48646,Essence,Manuelle,Gris,3,5,5,90,1,18,"",72
+RENAULT,Kadjar,sofibrie,https://www.leboncoin.fr/voitures/2222527431.htm,20900,2019,45743,Diesel,Manuelle,Bleu,5,5,6,116,2,20,"",73
+HYUNDAI,Tucson,sofibrie,https://www.leboncoin.fr/voitures/2260706017.htm,23480,2019,57007,Diesel,Manuelle,Marron,5,5,6,116,2,20,"",74
+PEUGEOT,308,sofibrie,https://www.leboncoin.fr/voitures/2272522064.htm,25480,2022,10,Essence,Manuelle,Noir,5,5,6,110,1,18,"",75
+VOLKSWAGEN,T-Roc,sofibrie,https://www.leboncoin.fr/voitures/2279074060.htm,23490,2021,30444,Essence,Manuelle,Gris,5,5,6,109,1,19,"",76
+RENAULT,Scenic,sofibrie,https://www.leboncoin.fr/voitures/2300982242.htm,21900,2020,6375,Diesel,Manuelle,Beige,5,5,6,120,2,20,"",77
+RENAULT,Clio,sofibrie,https://www.leboncoin.fr/voitures/2240425426.htm,17900,2021,22461,Essence,Manuelle,Blanc,5,5,5,91,1,20,"",78
+NISSAN,Micra,sofibrie,https://www.leboncoin.fr/voitures/2270711984.htm,19690,2022,10,Essence,Automatique,Rouge,5,5,5,92,1,16,"",80
+NISSAN,Qashqai,sofibrie,https://www.leboncoin.fr/voitures/2255242530.htm,19990,2018,44873,Essence,Manuelle,Gris,5,5,6,116,1,20,"",81
+RENAULT,Scenic,sofibrie,https://www.leboncoin.fr/voitures/2255767675.htm,24900,2021,46582,Essence,Manuelle,Gris,5,,7,140,1,18,"",82
+SUZUKI,Vitara,garage_st_pierre,https://www.leboncoin.fr/voitures/2237682496.htm,28230,2023,10,Hybride,Automatique,Blanc,5,5,5,115,1,5,"",83
+PEUGEOT,3008,garage_st_pierre,https://www.leboncoin.fr/voitures/2251703189.htm,26500,2019,9980,Essence,Manuelle,Marron,5,5,7,131,1,9,"",84
+ALFA ROMEO,Giulia,garage_st_pierre,https://www.leboncoin.fr/voitures/2283494068.htm,24900,2018,55300,Diesel,Automatique,Gris,4,5,9,179,2,5,"",85
+MAZDA,MX-5,garage_st_pierre,https://www.leboncoin.fr/voitures/2247866743.htm,30900,2021,6130,Essence,Manuelle,Gris,2,2,7,132,1,10,"",86
+MAZDA,MX-3,garage_st_pierre,https://www.leboncoin.fr/voitures/2294608166.htm,28990,2022,4280,Electrique,Automatique,Rouge,5,5,6,145,0,5,"",87
+MAZDA,CX-5,garage_st_pierre,https://www.leboncoin.fr/voitures/2294652838.htm,31990,2020,53010,Diesel,Automatique,Blanc,5,5,10,184,2,5,"",88
+MAZDA,MX-3,garage_st_pierre,https://www.leboncoin.fr/voitures/2248365444.htm,25850,2021,17720,Electrique,Automatique,Gris,5,5,6,145,0,5,"",89
+HONDA,Jazz,garage_st_pierre,https://www.leboncoin.fr/voitures/2295072865.htm,23840,2021,28620,Hybride,Automatique,Noir,5,5,5,109,1,5,"",90
+SUZUKI,Swift,garage_st_pierre,https://www.leboncoin.fr/voitures/2294666695.htm,12900,2019,76010,Essence,Manuelle,Blanc,5,5,5,90,1,5,"",91
+MAZDA,Mazda 3,garage_st_pierre,https://www.leboncoin.fr/voitures/2309234632.htm,25900,2019,43080,Essence,Manuelle,Bleu,5,5,9,180,1,5,"",92
+CITROEN,Jumpy Fg,spoticar_preview,https://www.leboncoin.fr/utilitaires/2289829729.htm,29490,2021,54200,Diesel,Automatique,Gris,4,3,7,120,,20,"",166
+CITROEN,C3,spoticar_preview,https://www.leboncoin.fr/voitures/2298644106.htm,16990,2021,10022,Essence,Manuelle,Bleu,5,5,4,83,1,20,"",167
+CITROEN,C3 Aircross,spoticar_preview,https://www.leboncoin.fr/voitures/2305732982.htm,22000,2022,15786,Essence,Automatique,Gris,5,5,7,131,1,20,"",168
+AUDI,A1,spoticar_preview,https://www.leboncoin.fr/voitures/2254182873.htm,13990,2016,77025,Diesel,Automatique,Noir,5,4,4,90,2,20,"",169
+CITROEN,C3,spoticar_preview,https://www.leboncoin.fr/voitures/2298644116.htm,16990,2021,11596,Essence,Manuelle,Beige,5,5,4,83,1,20,"",170
+PEUGEOT,208,spoticar_preview,https://www.leboncoin.fr/voitures/2260237021.htm,20490,2021,8681,Essence,Manuelle,Bleu,5,5,5,100,1,20,"",171
+CITROEN,C5,spoticar_preview,https://www.leboncoin.fr/voitures/2299389220.htm,27490,2021,42251,Diesel,Automatique,Gris,5,5,7,131,2,20,"",172
+CITROEN,C3 Aircross,spoticar_preview,https://www.leboncoin.fr/voitures/2298847109.htm,17390,2020,17684,Essence,Manuelle,Gris,5,5,6,110,1,20,"",173
+PEUGEOT,208,spoticar_preview,https://www.leboncoin.fr/voitures/2299389218.htm,13890,2019,55700,Diesel,Manuelle,Blanc,5,5,5,102,2,20,"",174
+PEUGEOT,208,spoticar_preview,https://www.leboncoin.fr/voitures/2260012719.htm,21590,2021,9345,Essence,Automatique,Rouge,5,5,5,100,1,20,"",175
+CITROEN,C3 Aircross,spoticar_preview,https://www.leboncoin.fr/voitures/2289829959.htm,24490,2022,923,Essence,Automatique,Noir,5,5,7,131,1,20,"",176
+CITROEN,SpaceTourer,spoticar_preview,https://www.leboncoin.fr/voitures/2299389216.htm,27890,2021,22300,Essence,Manuelle,Gris,5,,7,130,1,20,"",177
+DS,DS 3,spoticar_preview,https://www.leboncoin.fr/voitures/2280989179.htm,24490,2019,43600,Essence,Automatique,Bleu,5,5,6,130,1,20,"",178
+OPEL,Crossland X,spoticar_preview,https://www.leboncoin.fr/voitures/2281537408.htm,14490,2020,20153,Essence,Manuelle,Gris,5,5,5,83,1,20,"",179
+CITROEN,C5,spoticar_preview,https://www.leboncoin.fr/voitures/2290295312.htm,27490,2020,43600,Essence,Automatique,Noir,5,5,7,131,1,20,"",181
+MAZDA,CX-30,spoticar_preview,https://www.leboncoin.fr/voitures/2300282644.htm,26990,2020,36879,Essence,Automatique,Bleu,5,5,9,180,1,20,"",182
+CITROEN,C3,spoticar_preview,https://www.leboncoin.fr/voitures/2298644110.htm,17490,2021,9078,Essence,Manuelle,Gris,5,5,4,83,1,20,"",183
+PEUGEOT,208,spoticar_preview,https://www.leboncoin.fr/voitures/2287715788.htm,18990,2021,26459,Essence,Manuelle,Bleu,5,5,5,100,1,20,"",184
+CITROEN,C3,spoticar_preview,https://www.leboncoin.fr/voitures/2270712159.htm,13590,2019,37675,Essence,Manuelle,Gris,5,5,4,82,1,20,"",185
+CITROEN,C3,spoticar_preview,https://www.leboncoin.fr/voitures/2298644108.htm,16990,2021,11077,Essence,Manuelle,Beige,5,5,4,83,1,20,"",186
+RENAULT,Arkana,spoticar_preview,https://www.leboncoin.fr/voitures/2295790082.htm,29990,2022,10,Essence,Automatique,Gris,5,5,7,140,1,20,"",187
+OPEL,Grandland X,spoticar_preview,https://www.leboncoin.fr/voitures/2285741943.htm,22490,2021,30950,Essence,Manuelle,Gris,5,5,7,130,1,20,"",188
+CITROEN,C3,spoticar_preview,https://www.leboncoin.fr/voitures/2301733157.htm,13890,2019,11300,Essence,Manuelle,Blanc,5,5,4,82,1,20,"",189
+DS,DS 3,spoticar_preview,https://www.leboncoin.fr/voitures/1922256351.htm,34600,2020,3000,Electrique,Automatique,Gris,5,5,5,136,0,20,"",190
+RENAULT,Arkana,spoticar_preview,https://www.leboncoin.fr/voitures/2287715758.htm,29990,2022,10,Essence,Automatique,Blanc,5,5,7,140,1,20,"",191
+RENAULT,Arkana,spoticar_preview,https://www.leboncoin.fr/voitures/2291696735.htm,29990,2022,10,Essence,Automatique,Noir,5,5,7,140,1,20,"",192
+CITROEN,C3,spoticar_preview,https://www.leboncoin.fr/voitures/2259755030.htm,19590,2022,7567,Essence,Automatique,Noir,5,5,6,110,1,20,"",193
+CITROEN,C3,spoticar_preview,https://www.leboncoin.fr/voitures/2306797826.htm,14990,2022,9037,Essence,Manuelle,Gris,5,5,4,83,1,20,"",194
+CITROEN,C3 Aircross,spoticar_preview,https://www.leboncoin.fr/voitures/2261269294.htm,13390,2017,75481,Essence,Manuelle,Gris,5,5,6,110,1,20,"",195
+DS,DS 7,spoticar_preview,https://www.leboncoin.fr/voitures/2295790077.htm,26490,2019,98809,Essence,Automatique,Noir,5,5,10,180,1,20,"",196
+CITROEN,C3,spoticar_preview,https://www.leboncoin.fr/voitures/2301950315.htm,19490,2022,11020,Essence,Automatique,Beige,5,5,6,110,1,20,"",197
+ABARTH,500,spoticar_preview,https://www.leboncoin.fr/voitures/2296705434.htm,14490,2015,63700,Essence,Manuelle,Gris,3,4,8,160,1,20,"",198
+PEUGEOT,208,spoticar_preview,https://www.leboncoin.fr/voitures/2260012429.htm,19990,2021,18638,Essence,Manuelle,Bleu,5,5,5,100,1,20,"",200
+PEUGEOT,208,spoticar_preview,https://www.leboncoin.fr/voitures/2287715768.htm,18990,2021,20431,Essence,Manuelle,Blanc,5,5,5,100,1,20,"",201
+PEUGEOT,208,spoticar_preview,https://www.leboncoin.fr/voitures/2287715775.htm,18990,2021,15584,Essence,Manuelle,Blanc,5,5,5,100,1,20,"",202
+CITROEN,C3,spoticar_preview,https://www.leboncoin.fr/voitures/2285741930.htm,11890,2017,37300,Essence,Manuelle,Gris,5,5,4,82,1,20,"",203
+CITROEN,C3,spoticar_preview,https://www.leboncoin.fr/voitures/2259752069.htm,12590,2020,71258,Diesel,Manuelle,Blanc,5,5,5,102,2,20,"",204
+DS,DS 7,spoticar_preview,https://www.leboncoin.fr/voitures/2251333638.htm,41490,2022,1021,Diesel,Automatique,Noir,5,5,7,130,2,20,"",205
+RENAULT,Arkana,spoticar_preview,https://www.leboncoin.fr/voitures/2291696742.htm,29990,2022,10,Essence,Automatique,Rouge,5,5,7,140,1,20,"",206
+RENAULT,Arkana,spoticar_preview,https://www.leboncoin.fr/voitures/2281537041.htm,29990,2022,10,Essence,Automatique,Noir,5,5,7,140,1,20,"",207
+RENAULT,Arkana,spoticar_preview,https://www.leboncoin.fr/voitures/2291696726.htm,29990,2022,10,Essence,Automatique,Gris,5,5,7,140,1,20,"",208
+CITROEN,C5,spoticar_preview,https://www.leboncoin.fr/voitures/2301733164.htm,24990,2021,41254,Diesel,Manuelle,Gris,5,5,7,131,2,20,"",209
+DS,DS 7,spoticar_preview,https://www.leboncoin.fr/voitures/2244572538.htm,54990,2022,1818,Hybride,Automatique,Gris,5,5,11,200,,20,"",210
+CITROEN,SpaceTourer,spoticar_preview,https://www.leboncoin.fr/voitures/2244094425.htm,34990,2022,3841,Essence,Automatique,Gris,5,,7,130,1,20,"",211
+PEUGEOT,308,spoticar_preview,https://www.leboncoin.fr/voitures/2259754170.htm,25990,2020,31211,Diesel,Automatique,Noir,5,5,9,179,2,20,"",212
+DS,DS 3,spoticar_preview,https://www.leboncoin.fr/voitures/2301733170.htm,24990,2019,39500,Essence,Automatique,Noir,5,5,6,130,1,20,"",213
+CITROEN,C3 Aircross,spoticar_preview,https://www.leboncoin.fr/voitures/2243435213.htm,17490,2018,35433,Diesel,Automatique,Blanc,5,5,6,120,2,20,"",214
+PEUGEOT,308,spoticar_preview,https://www.leboncoin.fr/voitures/2304698022.htm,16890,2016,38700,Essence,Automatique,Blanc,5,5,6,130,1,20,"",215
+OPEL,Mokka,spoticar_preview,https://www.leboncoin.fr/voitures/2301242575.htm,15690,2019,59089,Diesel,Manuelle,Gris,5,5,8,136,2,20,"",216
+PEUGEOT,508,spoticar_preview,https://www.leboncoin.fr/voitures/2301242586.htm,23990,2021,37684,Diesel,Manuelle,Bleu,5,5,7,130,2,20,"",217
+DS,DS 7,spoticar_preview,https://www.leboncoin.fr/voitures/2301242595.htm,28490,2018,63300,Essence,Automatique,Gris,5,5,10,180,1,20,"",218
+CITROEN,C3,spoticar_preview,https://www.leboncoin.fr/voitures/2301468419.htm,11990,2018,74531,Diesel,Manuelle,Blanc,5,5,4,75,2,20,"",219
+CITROEN,SpaceTourer,spoticar_preview,https://www.leboncoin.fr/voitures/2301468417.htm,15490,2018,78100,Diesel,Automatique,Gris,5,5,6,120,2,20,"",220
+CITROEN,C3,spoticar_preview,https://www.leboncoin.fr/voitures/2264285240.htm,16590,2022,4595,Essence,Manuelle,Blanc,5,5,4,83,1,20,"",221
+CITROEN,C3 Aircross,spoticar_preview,https://www.leboncoin.fr/voitures/2298847111.htm,17490,2020,41318,Essence,Manuelle,Noir,5,5,6,110,1,20,"",222
+RENAULT,Arkana,spoticar_preview,https://www.leboncoin.fr/voitures/2291696738.htm,29990,2022,10,Essence,Automatique,Noir,5,5,7,140,1,20,"",223
+CITROEN,C3 Aircross,spoticar_preview,https://www.leboncoin.fr/voitures/2300969876.htm,25990,2022,10,Essence,Automatique,Gris,5,5,7,131,1,20,"",224
+CITROEN,C5,spoticar_preview,https://www.leboncoin.fr/voitures/2280988987.htm,21990,2019,42900,Diesel,Manuelle,Gris,5,5,6,131,2,20,"",225
+PEUGEOT,208,spoticar_preview,https://www.leboncoin.fr/voitures/2281536844.htm,14890,2020,39997,Essence,Manuelle,Gris,5,5,4,75,1,20,"",226
+PEUGEOT,Rifter,spoticar_preview,https://www.leboncoin.fr/voitures/2279058150.htm,24990,2019,64615,Diesel,Manuelle,Bleu,5,5,7,130,2,20,"",227
+DS,DS 7,spoticar_preview,https://www.leboncoin.fr/voitures/2297426354.htm,34890,2019,41700,Diesel,Automatique,Noir,5,5,9,180,2,20,"",228
+DS,DS 7,spoticar_preview,https://www.leboncoin.fr/voitures/2244572539.htm,54990,2022,3220,Hybride,Automatique,Gris,5,5,11,200,,20,"",229
+PEUGEOT,5008,spoticar_preview,https://www.leboncoin.fr/voitures/2287221922.htm,23990,2018,93400,Diesel,Manuelle,Gris,5,,6,130,2,20,"",230
+RENAULT,Kadjar,spoticar_preview,https://www.leboncoin.fr/voitures/2267219430.htm,20490,2019,55811,Essence,Automatique,Bleu,5,5,9,160,1,20,"",231
+DS,DS 4,spoticar_preview,https://www.leboncoin.fr/voitures/2295548599.htm,36990,2021,22900,Essence,Automatique,Noir,5,5,7,130,1,20,"",232
+DS,DS 3,spoticar_preview,https://www.leboncoin.fr/voitures/2284533527.htm,26990,2020,26500,Electrique,Automatique,Noir,5,5,5,136,0,20,"",233
+NISSAN,Qashqai,spoticar_preview,https://www.leboncoin.fr/voitures/2291990763.htm,14480,2016,100480,Diesel,Manuelle,Beige,5,5,5,110,2,20,"",234
+FORD,Focus,dream_auto,https://www.leboncoin.fr/voitures/2279745555.htm,7990,2011,160000,Diesel,Automatique,Autre,5,5,9,163,2,10,"",235
+PEUGEOT,308,dream_auto,https://www.leboncoin.fr/voitures/2279763769.htm,5490,2010,159000,Essence,Manuelle,Autre,5,5,7,120,1,10,"",236
+CITROEN,C4 Picasso,dream_auto,https://www.leboncoin.fr/voitures/2279986263.htm,5790,2011,175000,Diesel,Automatique,Rouge,5,5,6,110,2,10,"",237
+CITROEN,C4 Picasso,dream_auto,https://www.leboncoin.fr/voitures/2280721100.htm,5990,2012,180000,Diesel,Automatique,Gris,5,5,6,115,2,10,"",238
+PEUGEOT,3008,dream_auto,https://www.leboncoin.fr/voitures/2281267053.htm,7490,2012,150000,Diesel,Automatique,Gris,5,5,6,115,2,10,"",239
+VOLKSWAGEN,Golf,dream_auto,https://www.leboncoin.fr/voitures/2282579106.htm,12990,2013,74000,Diesel,Manuelle,Autre,5,5,5,105,2,5,"",240
+RENAULT,Clio,dream_auto,https://www.leboncoin.fr/voitures/2284394252.htm,4990,2008,180000,Diesel,Automatique,Autre,5,5,5,85,,10,"",241
+PEUGEOT,3008,dream_auto,https://www.leboncoin.fr/voitures/2284788727.htm,6890,2011,180000,Diesel,Automatique,Gris,5,5,6,112,2,10,"",242
+RENAULT,Megane,dream_auto,https://www.leboncoin.fr/voitures/2285965501.htm,4990,2011,199000,Diesel,Manuelle,Noir,5,5,7,130,2,10,"",243
+PEUGEOT,3008,dream_auto,https://www.leboncoin.fr/voitures/2285974512.htm,7490,2012,165000,Diesel,Automatique,Gris,5,5,6,115,2,10,"",244
+ALFA ROMEO,MiTo,dream_auto,https://www.leboncoin.fr/voitures/2286147065.htm,4490,2009,190000,Diesel,Manuelle,Rouge,3,4,6,120,,10,"",245
+CITROEN,C4,dream_auto,https://www.leboncoin.fr/voitures/2286640993.htm,6990,2012,202000,Diesel,Automatique,Gris,5,5,6,112,2,10,"",246
+PEUGEOT,3008,dream_auto,https://www.leboncoin.fr/voitures/2290186649.htm,7990,2010,165000,Diesel,Automatique,Noir,5,5,6,112,,10,"",247
+CITROEN,C5,dream_auto,https://www.leboncoin.fr/voitures/2290197294.htm,4890,2009,240000,Diesel,Automatique,Autre,4,5,9,138,,10,"",248
+CITROEN,C4 Picasso,dream_auto,https://www.leboncoin.fr/voitures/2291124726.htm,3990,2010,225000,Diesel,Automatique,Autre,5,,6,110,,10,"",249
+PEUGEOT,5008,dream_auto,https://www.leboncoin.fr/voitures/2291859749.htm,8990,2014,175000,Diesel,Automatique,Autre,5,5,6,115,2,10,"",250
+RENAULT,Megane,dream_auto,https://www.leboncoin.fr/voitures/2294279783.htm,5990,2011,195000,Diesel,Automatique,Noir,5,5,6,110,2,10,"",251
+PEUGEOT,3008,dream_auto,https://www.leboncoin.fr/voitures/2294603728.htm,8990,2010,125000,Essence,Automatique,Blanc,5,5,9,156,1,10,"",252
+CITROEN,C4 Picasso,dream_auto,https://www.leboncoin.fr/voitures/2294637327.htm,4790,2007,129000,Diesel,Automatique,Bleu,5,5,8,138,3,10,"",253
+CITROEN,C4 Picasso,dream_auto,https://www.leboncoin.fr/voitures/2294649659.htm,4790,2008,179000,Diesel,Automatique,Gris,5,5,8,138,3,10,"",254
+RENAULT,Megane,dream_auto,https://www.leboncoin.fr/voitures/2297777412.htm,6490,2010,180000,Diesel,Automatique,Blanc,5,5,6,110,,10,"",255
+PEUGEOT,3008,dream_auto,https://www.leboncoin.fr/voitures/2300327400.htm,8490,2014,190000,Diesel,Automatique,Blanc,5,5,6,115,2,10,"",256
+FORD,C-MAX,dream_auto,https://www.leboncoin.fr/voitures/2300938813.htm,6490,2011,210000,Diesel,Automatique,Blanc,5,,8,140,2,10,"",257
+PEUGEOT,1007,dream_auto,https://www.leboncoin.fr/voitures/2301407079.htm,4490,2005,140000,Essence,Automatique,Gris,3,4,6,110,,10,"",258
+CITROEN,C4 Picasso,dream_auto,https://www.leboncoin.fr/voitures/2301853647.htm,5490,2011,190000,Diesel,Automatique,Autre,5,5,6,110,2,10,"",259
+CITROEN,C4 Picasso,dream_auto,https://www.leboncoin.fr/voitures/2301891448.htm,5990,2011,160000,Diesel,Automatique,Marron,5,5,6,110,2,10,"",260
+RENAULT,Scenic,dream_auto,https://www.leboncoin.fr/voitures/2302296345.htm,8990,2014,189000,Diesel,Automatique,Autre,5,,9,150,2,10,"",261
+ALFA ROMEO,Giulietta,dream_auto,https://www.leboncoin.fr/voitures/2302365336.htm,6490,2011,165000,Diesel,Manuelle,Blanc,5,5,7,140,2,10,"",262
+CITROEN,Autre,dream_auto,https://www.leboncoin.fr/voitures/2305962241.htm,4990,2009,180000,Diesel,Automatique,Autre,5,,6,110,5,10,"",263
+CITROEN,C4,dream_auto,https://www.leboncoin.fr/voitures/2306233884.htm,8490,2012,130000,Diesel,Automatique,Marron,5,5,6,112,2,10,"",264
+RENAULT,Megane,dream_auto,https://www.leboncoin.fr/voitures/2308218881.htm,4990,2011,200000,Diesel,Manuelle,Blanc,5,5,5,90,2,10,"",265
+CITROEN,C4,dream_auto,https://www.leboncoin.fr/voitures/2308236720.htm,6990,2011,185000,Diesel,Automatique,Blanc,5,5,6,112,2,10,"",266
+RENAULT,Megane,dream_auto,https://www.leboncoin.fr/voitures/2308289086.htm,4990,2010,169000,Diesel,Manuelle,Autre,5,5,7,130,,10,"",267
+PEUGEOT,3008,dream_auto,https://www.leboncoin.fr/voitures/2309363621.htm,8490,2011,165000,Diesel,Automatique,Noir,5,5,6,112,2,10,"",268
+RENAULT,Scenic,dream_auto,https://www.leboncoin.fr/voitures/2309370795.htm,6490,2011,173000,Diesel,Manuelle,Noir,5,,6,110,2,10,"",269
+VOLKSWAGEN,Polo,groupe_gueudet,https://www.leboncoin.fr/voitures/2229972220.htm,23490,2022,17547,Essence,Automatique,Gris,5,5,5,95,1,20,"",270
+VOLKSWAGEN,T-Cross,groupe_gueudet,https://www.leboncoin.fr/voitures/2248516504.htm,19990,2019,18906,Essence,Manuelle,Blanc,5,5,5,95,1,20,"",271
+VOLKSWAGEN,T-Roc,groupe_gueudet,https://www.leboncoin.fr/voitures/2295009758.htm,28990,2020,38552,Essence,Automatique,Bleu,5,5,8,150,1,20,"",272
+VOLKSWAGEN,Tiguan,groupe_gueudet,https://www.leboncoin.fr/voitures/2298835160.htm,19990,2016,103566,Diesel,Manuelle,Noir,5,5,8,150,2,20,"",273
+BMW,X1,groupe_gueudet,https://www.leboncoin.fr/voitures/2302746879.htm,23490,2017,78745,Diesel,Automatique,Gris,5,5,8,150,2,20,"",274
+LAND-ROVER,Range Rover,groupe_gueudet,https://www.leboncoin.fr/voitures/2302747366.htm,38990,2017,68328,Diesel,Automatique,Gris,2,4,10,180,2,20,"",275
+CITROEN,C3 Aircross,groupe_gueudet,https://www.leboncoin.fr/voitures/2302746875.htm,17490,2020,46575,Essence,Manuelle,Blanc,5,5,5,110,1,20,"",277
+CITROEN,C3 Aircross,groupe_gueudet,https://www.leboncoin.fr/voitures/2302746866.htm,15990,2019,67396,Essence,Automatique,Blanc,5,5,6,110,1,20,"",278
+BMW,X1,groupe_gueudet,https://www.leboncoin.fr/voitures/2259732561.htm,22490,2018,81961,Diesel,Automatique,Gris,5,5,6,116,2,20,"",279
+FORD,Explorer,groupe_gueudet,https://www.leboncoin.fr/voitures/2251578112.htm,68990,2021,28454,Hybride,Automatique,Gris,5,,25,357,,20,"",280
+VOLKSWAGEN,Passat,groupe_gueudet,https://www.leboncoin.fr/voitures/2251578758.htm,16990,2015,109142,Diesel,Automatique,Noir,5,5,8,140,2,20,"",281
+VOLKSWAGEN,T-Cross,groupe_gueudet,https://www.leboncoin.fr/voitures/2248206769.htm,25990,2021,19070,Essence,Automatique,Gris,5,5,6,110,1,20,"",282
+VOLKSWAGEN,T-Cross,groupe_gueudet,https://www.leboncoin.fr/voitures/2248206774.htm,20490,2021,18763,Essence,Manuelle,Gris,5,5,5,95,1,19,"",283
+VOLKSWAGEN,Polo,groupe_gueudet,https://www.leboncoin.fr/voitures/2305980288.htm,18490,2019,68468,Diesel,Automatique,Bleu,5,5,5,95,2,20,"",285
+VOLKSWAGEN,T-Roc,groupe_gueudet,https://www.leboncoin.fr/voitures/2306521799.htm,30490,2021,18233,Essence,Automatique,Blanc,5,5,8,150,1,20,"",286
+VOLKSWAGEN,T-Roc,groupe_gueudet,https://www.leboncoin.fr/voitures/2306520846.htm,25490,2020,70902,Essence,Automatique,Blanc,5,5,8,150,1,20,"",287
+TOYOTA,C-HR,groupe_gueudet,https://www.leboncoin.fr/voitures/2306521192.htm,29490,2022,7998,Hybride,Automatique,Gris,5,5,5,98,,20,"",288
+VOLKSWAGEN,T-Cross,groupe_gueudet,https://www.leboncoin.fr/voitures/2306520848.htm,19990,2019,42823,Essence,Manuelle,Blanc,5,5,6,115,1,20,"",289
+VOLKSWAGEN,Polo,groupe_gueudet,https://www.leboncoin.fr/voitures/2268183938.htm,18990,2019,27555,Essence,Manuelle,Gris,5,5,5,95,1,20,"",290
+VOLKSWAGEN,T-Roc,groupe_gueudet,https://www.leboncoin.fr/voitures/2248516316.htm,30990,2020,53480,Diesel,Automatique,Gris,5,5,8,150,2,20,"",291
+VOLKSWAGEN,T-Roc,groupe_gueudet,https://www.leboncoin.fr/voitures/2250609409.htm,36990,2022,16000,Diesel,Automatique,Blanc,5,5,8,150,2,8,"",292
+VOLKSWAGEN,T-Cross,groupe_gueudet,https://www.leboncoin.fr/voitures/2295010417.htm,21990,2019,40532,Essence,Automatique,Argent,5,5,6,115,1,20,"",293
+VOLKSWAGEN,T-Roc,groupe_gueudet,https://www.leboncoin.fr/voitures/2284520685.htm,30990,2019,54588,Diesel,Automatique,Noir,5,5,8,150,2,20,"",294
+SEAT,Ibiza,groupe_gueudet,https://www.leboncoin.fr/voitures/2294074228.htm,15490,2021,30766,Essence,Manuelle,Blanc,5,5,5,95,1,20,"",296
+VOLKSWAGEN,Touran,groupe_gueudet,https://www.leboncoin.fr/voitures/2259992131.htm,27990,2019,53271,Diesel,Manuelle,Bleu,5,,8,150,2,20,"",297
+MINI,Countryman,groupe_gueudet,https://www.leboncoin.fr/voitures/2294074234.htm,32990,2019,26500,Hybride,Automatique,Bleu,5,5,6,136,,20,"",298
+VOLKSWAGEN,T-Roc,groupe_gueudet,https://www.leboncoin.fr/voitures/2280974387.htm,28990,2019,38647,Essence,Automatique,Bleu,5,5,8,150,1,20,"",299
+SKODA,Karoq,groupe_gueudet,https://www.leboncoin.fr/voitures/2295009495.htm,21990,2019,28062,Essence,Manuelle,Blanc,5,5,6,116,1,20,"",300
+VOLKSWAGEN,Arteon,groupe_gueudet,https://www.leboncoin.fr/voitures/2287944255.htm,39990,2021,10352,Diesel,Automatique,Gris,5,5,8,150,2,20,"",301
+VOLKSWAGEN,Passat,groupe_gueudet,https://www.leboncoin.fr/voitures/2291219548.htm,23990,2018,80533,Diesel,Automatique,Bleu,4,5,8,150,2,20,"",302
+VOLKSWAGEN,Polo,groupe_gueudet,https://www.leboncoin.fr/voitures/2264582149.htm,21490,2022,10784,Essence,Manuelle,Rouge,5,5,5,95,1,20,"",304
+VOLKSWAGEN,T-Roc,groupe_gueudet,https://www.leboncoin.fr/voitures/2282666577.htm,27990,2020,40904,Essence,Automatique,Noir,5,5,8,150,1,20,"",305
+VOLKSWAGEN,Golf,groupe_gueudet,https://www.leboncoin.fr/voitures/2283137988.htm,42990,2021,7084,Essence,Automatique,Blanc,5,5,14,245,1,20,"",306
+VOLKSWAGEN,Golf,groupe_gueudet,https://www.leboncoin.fr/voitures/2298160713.htm,31990,2020,15626,Hybride,Automatique,Gris,5,5,8,150,,20,"",307
+VOLKSWAGEN,Polo,groupe_gueudet,https://www.leboncoin.fr/voitures/2229972063.htm,21990,2021,25100,Essence,Automatique,Bleu,5,5,5,95,1,20,"",308
+VOLKSWAGEN,Tiguan,groupe_gueudet,https://www.leboncoin.fr/voitures/2272265380.htm,29990,2020,77969,Diesel,Automatique,Gris,5,5,8,150,2,20,"",309
+VOLKSWAGEN,T-Cross,groupe_gueudet,https://www.leboncoin.fr/voitures/2280974394.htm,23990,2019,31797,Essence,Automatique,Blanc,5,5,6,115,1,20,"",310
+VOLKSWAGEN,T-Roc,groupe_gueudet,https://www.leboncoin.fr/voitures/2270257642.htm,26990,2019,82913,Diesel,Automatique,Marron,5,5,8,150,2,20,"",311
+VOLKSWAGEN,Polo,groupe_gueudet,https://www.leboncoin.fr/voitures/2291945160.htm,15990,2019,38500,Essence,Manuelle,Blanc,5,5,5,95,1,20,"",312
+VOLKSWAGEN,Golf Sportsvan,groupe_gueudet,https://www.leboncoin.fr/voitures/2290769211.htm,20990,2020,45075,Essence,Manuelle,Noir,5,5,6,130,1,20,"",313
+VOLKSWAGEN,Passat,groupe_gueudet,https://www.leboncoin.fr/voitures/2294074238.htm,24990,2018,82910,Hybride,Automatique,Bleu,5,5,6,156,,20,"",315
+PEUGEOT,208,groupe_gueudet,https://www.leboncoin.fr/voitures/2295010087.htm,21990,2020,9157,Essence,Automatique,Gris,5,5,5,100,1,20,"",317
+VOLKSWAGEN,Polo,groupe_gueudet,https://www.leboncoin.fr/voitures/2267219342.htm,20490,2021,15648,Essence,Manuelle,Noir,5,5,5,95,1,20,"",318
+FORD,Grand C-MAX,as_cars,https://www.leboncoin.fr/voitures/2304752186.htm,8490,2011,143311,Diesel,Manuelle,Gris,5,,6,115,2,13,"",319
+VOLVO,XC60,groupe_gueudet,https://www.leboncoin.fr/voitures/2300507581.htm,46990,2021,47880,Diesel,Automatique,Noir,5,5,11,197,2,20,win,314
+MINI,Autres,as_cars,https://www.leboncoin.fr/voitures/2305788886.htm,13990,2012,77500,Essence,Automatique,Blanc,3,2,7,122,1,12,"",320
+JEEP,Grand Cherokee,as_cars,https://www.leboncoin.fr/voitures/2289901896.htm,14990,2007,118604,Diesel,Automatique,Noir,5,5,15,218,3,16,"",321
+NISSAN,Qashqai,as_cars,https://www.leboncoin.fr/voitures/2305788884.htm,13990,2015,118840,Essence,Automatique,Gris,5,5,6,115,1,14,"",322
+VOLKSWAGEN,Polo,as_cars,https://www.leboncoin.fr/voitures/2274732956.htm,4990,2008,125300,Diesel,Manuelle,Noir,5,5,4,70,3,11,"",325
+MAZDA,Mazda 5,as_cars,https://www.leboncoin.fr/voitures/2157530898.htm,6990,2009,104041,Diesel,Manuelle,Gris,5,,7,110,3,13,"",326
+AUDI,TT,as_cars,https://www.leboncoin.fr/voitures/2264078686.htm,8990,2003,206300,Essence,Manuelle,Gris,2,,15,225,3,18,"",327
+AUDI,A5,as_cars,https://www.leboncoin.fr/voitures/2182231183.htm,12990,2010,129000,Essence,Automatique,Noir,2,4,12,211,1,10,"",328
+RENAULT,Scenic,as_cars,https://www.leboncoin.fr/voitures/2150932091.htm,6490,2013,187650,Diesel,Automatique,Gris,5,,6,110,2,14,"",329
+BMW,Série 3,as_cars,https://www.leboncoin.fr/voitures/2262572525.htm,13990,2010,99760,Diesel,Automatique,Vert,4,5,10,184,2,16,"",331
+LEXUS,GS,as_cars,https://www.leboncoin.fr/voitures/2278218557.htm,8490,2007,211030,Essence,Automatique,Gris,4,5,17,249,2,18,"",332
+CHEVROLET,Matiz,as_cars,https://www.leboncoin.fr/voitures/2182231181.htm,4990,2010,42000,Essence,Manuelle,Rouge,5,5,4,51,2,12,"",333
+CITROEN,C4 Picasso,as_cars,https://www.leboncoin.fr/voitures/2295303016.htm,7490,2012,121055,Diesel,Manuelle,Gris,5,5,6,112,2,13,"",335
+CITROEN,C3,as_cars,https://www.leboncoin.fr/voitures/2304752187.htm,7490,2013,101787,Essence,Manuelle,Gris,5,5,4,82,1,13,"",336
+PEUGEOT,508,as_cars,https://www.leboncoin.fr/voitures/2294833436.htm,8990,2011,130430,Diesel,Automatique,Gris,4,5,6,112,2,15,"",337
+AUDI,Q5,as_cars,https://www.leboncoin.fr/voitures/2284138048.htm,19990,2014,182457,Diesel,Automatique,Marron,5,5,11,190,2,16,"",338
+SEAT,Ibiza,as_cars,https://www.leboncoin.fr/voitures/2262572523.htm,6990,2013,151000,Diesel,Manuelle,Gris,5,5,4,75,2,13,"",339
+RENAULT,Megane,as_cars,https://www.leboncoin.fr/voitures/2277429208.htm,5490,2010,171200,Diesel,Manuelle,Beige,2,4,6,110,,10,"",340
+RENAULT,Trafic Combi,as_cars,https://www.leboncoin.fr/voitures/2235308912.htm,18490,2012,103020,Diesel,Manuelle,Blanc,5,,6,90,2,12,"",341
+FIAT,Punto,as_cars,https://www.leboncoin.fr/voitures/2308022615.htm,7490,2013,71800,Essence,Manuelle,Noir,3,5,4,69,1,11,"",343
+PEUGEOT,508,as_cars,https://www.leboncoin.fr/voitures/2234156431.htm,8490,2013,132800,Diesel,Manuelle,Gris,4,5,7,140,2,11,"",344
+PEUGEOT,2008,as_cars,https://www.leboncoin.fr/voitures/2305788887.htm,12450,2016,111757,Essence,Automatique,Gris,5,5,6,110,1,17,"",345
+MAZDA,Mazda 2,as_cars,https://www.leboncoin.fr/voitures/2150468884.htm,4490,2009,173000,Diesel,Manuelle,Orange,3,5,4,68,4,14,"",346
+PEUGEOT,207,as_cars,https://www.leboncoin.fr/voitures/2298908052.htm,4990,2011,163000,Diesel,Manuelle,Bleu,5,5,4,70,2,14,"",347
+DACIA,Duster,as_cars,https://www.leboncoin.fr/voitures/2264695601.htm,14490,2015,47700,Essence,Manuelle,Gris,5,5,7,125,1,14,"",349
+CITROEN,C3,as_cars,https://www.leboncoin.fr/voitures/2259273430.htm,7490,2015,96015,Essence,Manuelle,Gris,5,5,4,68,1,11,"",350
+KIA,Rio,as_cars,https://www.leboncoin.fr/voitures/2298907451.htm,6990,2012,121780,Essence,Manuelle,Gris,5,5,5,85,1,12,"",351
+VOLKSWAGEN,Golf,as_cars,https://www.leboncoin.fr/voitures/2161928530.htm,13490,2010,133300,Essence,Manuelle,Blanc,3,5,13,210,1,14,"",352
+PEUGEOT,3008,as_cars,https://www.leboncoin.fr/voitures/2302017586.htm,7490,2012,225000,Diesel,Manuelle,Gris,5,5,8,150,,14,"",355
+JEEP,Renegade,as_cars,https://www.leboncoin.fr/voitures/2294835918.htm,15990,2016,131422,Diesel,Manuelle,Noir,5,5,6,120,2,17,"",356
+OPEL,Corsa,as_cars,https://www.leboncoin.fr/voitures/2233134235.htm,7990,2015,123000,Diesel,Manuelle,Blanc,5,5,4,75,2,14,"",357
+CITROEN,C3,as_cars,https://www.leboncoin.fr/voitures/2301027616.htm,6490,2011,114710,Diesel,Manuelle,Rouge,5,5,5,92,2,13,"",358
+RENAULT,Kadjar,sofibrie,https://www.leboncoin.fr/voitures/2249176942.htm,20290,2018,73370,Diesel,Manuelle,Gris,5,5,7,131,2,19,"",1
+NISSAN,Qashqai,as_cars,https://www.leboncoin.fr/voitures/2300576124.htm,10990,2012,151560,Diesel,Manuelle,Blanc,5,,7,130,2,17,"",359
